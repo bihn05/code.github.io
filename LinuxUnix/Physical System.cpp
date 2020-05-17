@@ -2,6 +2,7 @@
 #include <conio.h>
 #include <cmath>
 using namespace std;
+
 #define ROOM_X 60
 #define ROOM_Y 30
 int frame=0;
